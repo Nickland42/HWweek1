@@ -1,7 +1,6 @@
 // Write your JS here
 const myHero = {
 
-
 };
 var hero = {
   name:"Nick", 
@@ -12,4 +11,24 @@ var hero = {
   
 };
 
+const teastCreature2 = { health: 2}
+const teastCreature4 = { health:4 }
+
+function rest(person) {
+  return testCreature = {},
+  
+
+
+  
+  window.alert("Your health is already at 10, FIGHT ON!.")
+}
+
+
+
+function pickUpItem(params) {
+  
+};
+function equipWeapon(params) {
+  
+};
 
