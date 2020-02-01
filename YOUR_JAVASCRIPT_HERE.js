@@ -4,7 +4,7 @@ const myHero = {
 };
 var hero = {
   name:"Nick", 
-  // heroic: 
+  heroic: {  },
   inventory: [ ],
   health: 10,
   // weapon: (weaponType),
@@ -15,8 +15,9 @@ const teastCreature2 = { health: 2}
 const teastCreature4 = { health:4 }
 
 function rest(person) {
-  return testCreature = {},
+
   
+
 
 
   

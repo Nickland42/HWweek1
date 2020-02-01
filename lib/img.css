@@ -1,5 +1,14 @@
-.dagger {
-  border-image-width: 20px;
 
+
+img {
+  border-radius: 15pc;
+  border-color: blue;
+  border-style: solid;
+  border-color: brown;
+  width: 200px;
+  height: 200px
 }
 
+body {
+  background-color: cyan;
+}
