@@ -1,3 +1,9 @@
+h1 {
+  text-align: center;
+  text-decoration-color: indigo;
+  color: red;
+
+}
 
 
 img {
@@ -10,5 +16,28 @@ img {
 }
 
 body {
-  background-color: cyan;
+  background-color: rgb(104, 226, 67);
+}
+
+ul {
+  list-style: none;
+  display: inline-block;
+}
+.clickAble {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.clickAbleGroup::after {
+    content: "";
+    clear: both;
+    display: table;
+
+
+}
+.stats {
+  flex: right;
+  text-align: right;
+  vertical-align: top;
+  padding-right: 200px;
 }
