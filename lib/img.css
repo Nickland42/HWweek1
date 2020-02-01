@@ -10,8 +10,11 @@ img {
   border-color: blue;
   border-style: solid;
   border-color: brown;
+  float: left;
+  vertical-align: top;
   width: 200px;
   height: 200px
+  
 }
 
 body {

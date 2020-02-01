@@ -39,7 +39,7 @@ Don't discuss the homework in slack
 - You get no points for Extra CSS that is not in the assignment (except the fuzzy feeling in your own brain)
 - If you feel you had a bad result write a reflection on your way of working in the readme of your project. -->
 
-## What are we building?
+<!-- ## What are we building?
 
 We are building (the start) of a game
 
@@ -81,4 +81,4 @@ Follow the instructions to implment `resting`, `picking up items` and `equipping
 
 - Implement fighting an enemy. (how you do it is up to you!)
 
-- When an enemy or weapon gets clicked it gets deleted from the page
+- When an enemy or weapon gets clicked it gets deleted from the page -->
