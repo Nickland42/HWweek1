@@ -1,24 +1,40 @@
 // Write your JS here
 const myHero = {
-
 };
+// details of the hero are here ==>
 var hero = {
   name:"Nick", 
-  heroic: {},
+  heroic: Boolean (), 
   inventory: [ ],
   health: 10,
-  // weapon: (weaponType),
   
-};
-// console.log(hero.name)
-
-const teastCreature2 = { health: 2}
-const teastCreature4 = { health:4 }
-
-function rest(person) {
-  window.alert("Your health is already at 10, FIGHT ON!.")
+    
 };
 
+var weaponType = {
+
+}
+
+document.getElementById("heroName").innerHTML = hero.name; // Your Hero Name on the stats
+document.getElementById("heroHealth").innerHTML = hero.health; // Your Hero Name on the stats
+document.getElementById("heroWeapon").innerHTML = hero.weapon; // Your Hero Name on the stats
+document.getElementById("heroDmg").innerHTML = hero.weapon.dam; // Your Hero Name on the stats
+
+
+
+
+
+
+// var popup = get.ElementById("Your Health is full Mate")
+//   popup.classList.toggle("YO")
+
+
+// Functions of the hero!!!
+
+
+function rest(person) { 
+  window.alert("health is full");
+};
 function pickUpItem(params) {
   
 };
@@ -26,14 +42,8 @@ function equipWeapon(params) {
   
 };
 
-// function nameFunction (){
-//   document.getElementById(heroName).value = "your Hero's name is:" + hero.name;
-// }
+function healthWarning (popup){
 
-document.getElementById("clickMe").onclick = doFunction;
-document.getElementById("clickMe").onclick = function () { alert('hello!'); };
-var el = document.getElementById("clickMe");
-if (el.addEventListener)
-    el.addEventListener("click", doFunction, false);
-else if (el.attachEvent)
-    el.attachEvent('onclick', doFunction);
+}
+
+
