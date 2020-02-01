@@ -1,8 +1,14 @@
 # Beginner Bootcamp Homework
+Nick's Thoughts
+
+wow, this was very very challenging. at first i was really lost. But I just took my time and used the nice code reading skills from class this week. I have spent all day on it and feel I can't get much further. If I was reminded how to do a few things and had a bit more time I would complete this project.  I'm happy with the progress I have made today. 
  
- Nick's Thought's
+I must say I can definitely feel my lack of experience. But I am amazed with how much i have learnt this week.
  
- wow, this was very very challenging. at first i was really lost but i'm happy with the progress i have made toady. i can defently feel my lack of experance. 
+see you monday
+Nick
+
+
 
 <!-- 
 

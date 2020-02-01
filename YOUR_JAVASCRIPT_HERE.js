@@ -36,9 +36,13 @@ const testCreature2 = { health: 2}
 const testCreature4 = { headlth: 4 }
 
 function rest(person) { 
-  
+//   let person = 0
+//   while (person < 10) {
+//       console.log(number) 
+//       number = number + 1 
+//   }
 
-  window.alert("health is full");
+const inn = window.alert("health is full");
 };
 function pickUpItem(params) {
   
